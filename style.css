@@ -1,0 +1,41 @@
+body{
+  background-color:white;
+  font-family: cambria;
+  color:white;
+}
+.banner{
+  background-color:black;
+  opacity:0.5;
+}
+
+h1{
+  padding:0px;
+  margin-top:0px;
+  font-size:5.0em;
+}
+.btn-default{
+  background-color:black
+  border-color:black
+  color:blue;
+  font-size:1.7em;
+  
+}
+
+.nav-pills{
+   font-size:1.5em;
+  background-color:black;
+  opacity:0.;
+}
+
+header{
+ background-color: white;
+  font-family: cambria;
+  }
+
+.pageOne{
+  background:url("http://unsplash.com/photos/3l3RwQdHRHg/download?force=true");
+  
+  background-size:cover;
+  height:800px;
+  margin-top: 0.1%;
+  }
